@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 	int numero,potencia;
 	
 	numero = 3;
-	potencia = 5;
+    potencia = 5;
 	
 	Potencia(numero,potencia);
 	
